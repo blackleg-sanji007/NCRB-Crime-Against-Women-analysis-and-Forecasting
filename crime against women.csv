@@ -1,0 +1,217 @@
+state_name,year,total_crimes
+Andaman And Nicobar Islands,2017,24
+Andaman And Nicobar Islands,2018,50
+Andaman And Nicobar Islands,2019,25
+Andaman And Nicobar Islands,2020,5
+Andaman And Nicobar Islands,2021,32
+Andaman And Nicobar Islands,2022,28
+Andhra Pradesh,2017,4136
+Andhra Pradesh,2018,3689
+Andhra Pradesh,2019,3820
+Andhra Pradesh,2020,3941
+Andhra Pradesh,2021,3863
+Andhra Pradesh,2022,4003
+Arunachal Pradesh,2017,170
+Arunachal Pradesh,2018,167
+Arunachal Pradesh,2019,127
+Arunachal Pradesh,2020,125
+Arunachal Pradesh,2021,150
+Arunachal Pradesh,2022,128
+Assam,2017,5607
+Assam,2018,5625
+Assam,2019,5875
+Assam,2020,5830
+Assam,2021,5422
+Assam,2022,3040
+Bihar,2017,2045
+Bihar,2018,1974
+Bihar,2019,2153
+Bihar,2020,2324
+Bihar,2021,2064
+Bihar,2022,2288
+Chandigarh,2017,118
+Chandigarh,2018,133
+Chandigarh,2019,147
+Chandigarh,2020,84
+Chandigarh,2021,94
+Chandigarh,2022,95
+Chhattisgarh,2017,3270
+Chhattisgarh,2018,3512
+Chhattisgarh,2019,2173
+Chhattisgarh,2020,2586
+Chhattisgarh,2021,2187
+Chhattisgarh,2022,2377
+Delhi,2017,2493
+Delhi,2018,2531
+Delhi,2019,2492
+Delhi,2020,2086
+Delhi,2021,2447
+Delhi,2022,2239
+Goa,2017,138
+Goa,2018,125
+Goa,2019,120
+Goa,2020,86
+Goa,2021,97
+Goa,2022,110
+Gujarat,2017,994
+Gujarat,2018,1216
+Gujarat,2019,1033
+Gujarat,2020,803
+Gujarat,2021,810
+Gujarat,2022,887
+Haryana,2017,2942
+Haryana,2018,3260
+Haryana,2019,3399
+Haryana,2020,3231
+Haryana,2021,4004
+Haryana,2022,3944
+Himachal Pradesh,2017,454
+Himachal Pradesh,2018,554
+Himachal Pradesh,2019,557
+Himachal Pradesh,2020,568
+Himachal Pradesh,2021,562
+Himachal Pradesh,2022,598
+Jammu And Kashmir,2017,1661
+Jammu And Kashmir,2018,1842
+Jammu And Kashmir,2019,1619
+Jammu And Kashmir,2020,1901
+Jammu And Kashmir,2021,2068
+Jammu And Kashmir,2022,1807
+Jharkhand,2017,2237
+Jharkhand,2018,2886
+Jharkhand,2019,3182
+Jharkhand,2020,2774
+Jharkhand,2021,2947
+Jharkhand,2022,2495
+Karnataka,2017,4686
+Karnataka,2018,4167
+Karnataka,2019,3982
+Karnataka,2020,3963
+Karnataka,2021,4115
+Karnataka,2022,4828
+Kerala,2017,5246
+Kerala,2018,5207
+Kerala,2019,5136
+Kerala,2020,3060
+Kerala,2021,3236
+Kerala,2022,3480
+Ladakh,2017,5
+Ladakh,2018,8
+Ladakh,2019,10
+Ladakh,2020,6
+Ladakh,2021,7
+Ladakh,2022,5
+Lakshadweep,2017,0
+Lakshadweep,2018,2
+Lakshadweep,2019,3
+Lakshadweep,2020,3
+Lakshadweep,2021,1
+Lakshadweep,2022,5
+Madhya Pradesh,2017,11186
+Madhya Pradesh,2018,10769
+Madhya Pradesh,2019,6219
+Madhya Pradesh,2020,5851
+Madhya Pradesh,2021,6499
+Madhya Pradesh,2022,6646
+Maharashtra,2017,6537
+Maharashtra,2018,7242
+Maharashtra,2019,7060
+Maharashtra,2020,6794
+Maharashtra,2021,7285
+Maharashtra,2022,8326
+Manipur,2017,82
+Manipur,2018,105
+Manipur,2019,112
+Manipur,2020,115
+Manipur,2021,112
+Manipur,2022,120
+Meghalaya,2017,223
+Meghalaya,2018,193
+Meghalaya,2019,194
+Meghalaya,2020,152
+Meghalaya,2021,170
+Meghalaya,2022,149
+Mizoram,2017,49
+Mizoram,2018,80
+Mizoram,2019,61
+Mizoram,2020,49
+Mizoram,2021,36
+Mizoram,2022,30
+Nagaland,2017,20
+Nagaland,2018,14
+Nagaland,2019,17
+Nagaland,2020,8
+Nagaland,2021,14
+Nagaland,2022,16
+Odisha,2017,7768
+Odisha,2018,7358
+Odisha,2019,8703
+Odisha,2020,9218
+Odisha,2021,11338
+Odisha,2022,6221
+Puducherry,2017,45
+Puducherry,2018,69
+Puducherry,2019,33
+Puducherry,2020,35
+Puducherry,2021,35
+Puducherry,2022,45
+Punjab,2017,1189
+Punjab,2018,1424
+Punjab,2019,1691
+Punjab,2020,975
+Punjab,2021,897
+Punjab,2022,923
+Rajasthan,2017,8253
+Rajasthan,2018,9436
+Rajasthan,2019,14459
+Rajasthan,2020,13634
+Rajasthan,2021,15091
+Rajasthan,2022,13260
+Sikkim,2017,39
+Sikkim,2018,33
+Sikkim,2019,29
+Sikkim,2020,22
+Sikkim,2021,21
+Sikkim,2022,29
+Tamil Nadu,2017,1033
+Tamil Nadu,2018,1219
+Tamil Nadu,2019,1153
+Tamil Nadu,2020,1226
+Tamil Nadu,2021,1326
+Tamil Nadu,2022,1550
+Telangana,2017,3231
+Telangana,2018,3095
+Telangana,2019,3193
+Telangana,2020,3523
+Telangana,2021,3306
+Telangana,2022,3199
+The Dadra And Nagar Haveli And Daman And Diu,2017,14
+The Dadra And Nagar Haveli And Daman And Diu,2018,20
+The Dadra And Nagar Haveli And Daman And Diu,2019,11
+The Dadra And Nagar Haveli And Daman And Diu,2020,5
+The Dadra And Nagar Haveli And Daman And Diu,2021,7
+The Dadra And Nagar Haveli And Daman And Diu,2022,12
+Tripura,2017,256
+Tripura,2018,262
+Tripura,2019,224
+Tripura,2020,193
+Tripura,2021,177
+Tripura,2022,183
+Uttar Pradesh,2017,11688
+Uttar Pradesh,2018,11268
+Uttar Pradesh,2019,10458
+Uttar Pradesh,2020,9131
+Uttar Pradesh,2021,9147
+Uttar Pradesh,2022,9585
+Uttarakhand,2017,821
+Uttarakhand,2018,1146
+Uttarakhand,2019,963
+Uttarakhand,2020,1019
+Uttarakhand,2021,1192
+Uttarakhand,2022,1607
+West Bengal,2017,5089
+West Bengal,2018,4397
+West Bengal,2019,4397
+West Bengal,2020,3951
+West Bengal,2021,3817
+West Bengal,2022,3566
